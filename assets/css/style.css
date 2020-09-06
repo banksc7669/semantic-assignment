@@ -46,6 +46,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color:orange;
+    font-size: 30px;
+}
+
 p {
     font-size: 16px;
 }
@@ -143,6 +148,11 @@ p {
     color: #ffffff;
 }
 
+.search-engine-optimization:hover {
+    color: orange;
+    font-size: 30px;
+}
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +162,11 @@ p {
     color: #ffffff;
 }
 
+.online-reputation-management:hover {
+    font-size: 30px;
+    color: orange;
+}
+
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -159,6 +174,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.social-media-marketing:hover {
+    color: orange;
+    font-size: 30px;
 }
 
 .search-engine-optimization img {
