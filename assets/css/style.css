@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
     margin: 20px;
-
+    color: black;
 }
 
 .header {
@@ -24,7 +24,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .Horiseon {
     color: #d9dcd6;
 }
 
